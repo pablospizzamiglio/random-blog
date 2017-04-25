@@ -11,6 +11,7 @@ DEFAULT_LANG = 'es'
 DEFAULT_DATE_FORMAT = '%A, %d %B %Y'
 LOCALE = ('es', 'es_AR',)
 
+TYPOGRIFY = True
 THEME = "theme"
 PATH = 'content'
 # PAGE_PATHS = ['pages', ]
@@ -45,8 +46,6 @@ RELATIVE_URLS = False
 
 # Delete the output directory before generating new files
 DELETE_OUTPUT_DIRECTORY = True
-
-TYPOGRIFY = True
 
 # Disqus
 DISQUS_SITENAME = 'modnar'
