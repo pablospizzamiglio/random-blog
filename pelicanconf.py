@@ -11,8 +11,9 @@ DEFAULT_LANG = 'es'
 DEFAULT_DATE_FORMAT = '%A, %d %B %Y'
 LOCALE = ('es', 'es_AR',)
 
-TYPOGRIFY = True
 THEME = "theme"
+TYPOGRIFY = True
+
 PATH = 'content'
 # PAGE_PATHS = ['pages', ]
 # ARTICLE_PATHS = ['articles', ]

@@ -56,6 +56,7 @@ RELATIVE_URLS = False
 
 # Delete the output directory before generating new files
 DELETE_OUTPUT_DIRECTORY = True
+OUTPUT_PATH = 'output-live/'
 
 TYPOGRIFY = True
 
